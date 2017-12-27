@@ -4,10 +4,6 @@
   <prescription type="service" class="com.umeng.message.UmengService" sender="any" />  
   <prescription type="service" class="com.umeng.update.net.DownloadingService" sender="any" /> 
   <prescription type="service" class="com.umeng.common.net.DownloadingService" sender="any" /> 
-  <prescription type="service" class="com.xiaomi.mipush.sdk.PushMessageHandler" sender="any" />  
-  <prescription type="service" class="com.xiaomi.mipush.sdk.MessageHandleService" sender="any" /> 
-  <prescription type="service" class="com.xiaomi.push.service.PushMessageHandler" sender="any" /> 
-  <prescription type="service" class="com.xiaomi.push.service.XMPushService" sender="any" />  
   <prescription type="service" class="cn.jpush.android.service.AlarmReceiver" sender="any" /> 
   <prescription type="service" class="cn.jpush.android.service.DownloadService" sender="any" /> 
   <prescription type="service" class="cn.jpush.android.ui.PushActivity" sender="any" />  
